@@ -1,0 +1,51 @@
+/*
+1- try the simple stuff first, if it ends up failing you don't waste much time. 
+2- If you are stuck try to prove some lemmas that you think would be helpful (e.g. "if i could guarentee X the problem is much easier")
+3- Try solving an easier version of the problem, this often gives intuition for the original problem 
+4- When trying to prove something, first try to disprove it.
+Its often easier to find counterexamples and this saves a lot of time
+
+//FOCUS.ONLY THINK ABOUT THE SUM.YOU CAN DO IT.I KNOW YOU CAN.
+//Make reusable functions------(Dreamoon)
+//Iterate stuff----(shovels & RPG)
+//If it can be graphed?
+//Take a step back/Think of an alternative way----(distributed tree)---(serval and paranthesis sequecne)
+//See the middle terms among the tuples----(zigzags & gems)
+//Try to use store things to avoid TLE
+//WRITE AND ANALYSE!!!!!
+//gcd(x+y,y)=gcd(x,y);
+//prefix-suffix funda
+//read sum properly
+//sometimes move reverse
+//don't try to stick on some magic
+//look what's important.
+//xor doesn't distributes over addition
+//Jot down the observations
+//when does the event occur-----rating drop-----medians
+//generate test cases
+//Look at the bits individually
+//When you start a problem, check immediately if the array can be sorted.
+//If you are still stuck after much time, 
+//maybe it's better to go back and double check your previous observations / counter examples.
+//backtrack for small constraints
+//don't look others' position during contest ya phir while solving sums
+*/
+
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+    long long n,t,i,p,q,r;
+    t=1;
+    cin>>t;
+    while(t--)
+    {
+        
+    
+        
+    }
+    
+    return 0;
+}
